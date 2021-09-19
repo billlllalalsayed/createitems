@@ -46,7 +46,7 @@ Steps to run the project in your machine
 4. Start the Apache and Mysql in your XAMPP control panel.
 5.Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'items'
-7.Open a new tab and type 'localhost/createitem' in the url of your browser
+7.Open a new tab and type 'localhost/createitems/index.php/Item/savedata' in the url of your browser
 *******
 License
 *******
