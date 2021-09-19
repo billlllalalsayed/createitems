@@ -39,9 +39,14 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
+Steps to run the project in your machine
+1.Download and install XAMPP in your machine
+2.Clone or download the repository
+3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
+4. Start the Apache and Mysql in your XAMPP control panel.
+5.Open your web browser and type 'localhost/phpmyadmin'
+6. In phpmyadmin page, create a new database from the left panel and name it as 'items'
+7.Open a new tab and type 'localhost/createitem' in the url of your browser
 *******
 License
 *******
